@@ -1,3 +1,5 @@
+#!/opt/anaconda3/bin/python
+
 import yfinance as yf
 
 def fiyat_cek(ticker):
